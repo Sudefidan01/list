@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230819_List\20230819_List\bin\Debug\20230819_List.exe.config
+C:\Users\pcc\source\repos\20230819_List\20230819_List\bin\Debug\20230819_List.exe
+C:\Users\pcc\source\repos\20230819_List\20230819_List\bin\Debug\20230819_List.pdb
+C:\Users\pcc\source\repos\20230819_List\20230819_List\obj\Debug\20230819_List.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230819_List\20230819_List\obj\Debug\20230819_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230819_List\20230819_List\obj\Debug\20230819_List.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230819_List\20230819_List\obj\Debug\20230819_List.exe
+C:\Users\pcc\source\repos\20230819_List\20230819_List\obj\Debug\20230819_List.pdb
